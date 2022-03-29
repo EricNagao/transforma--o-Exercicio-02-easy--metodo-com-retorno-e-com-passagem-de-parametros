@@ -1,0 +1,17 @@
+[33mcommit 93dd3b134924308eaa2f7665299744615a7779da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ericnagao <eric.nagao@ffcorp.local>
+Date:   Tue Mar 29 18:02:31 2022 -0300
+
+    transformação Exercicio 02 easy -metodo com retorno e com passagem de parametros
+
+[33mcommit e9e157304f2f28af22142fe79d1ba069352397b6[m
+Author: Eric Maeda Nagao <eric.nagao@ffcorp.local>
+Date:   Mon Mar 21 18:16:15 2022 -0300
+
+    novasfiles
+
+[33mcommit 24360bc78af1162c4976bfce544f0febb2b218bf[m
+Author: Eric Maeda Nagao <eric.nagao@ffcorp.local>
+Date:   Mon Mar 21 18:08:03 2022 -0300
+
+    Excluao de arquivos e mudança de pacotes
